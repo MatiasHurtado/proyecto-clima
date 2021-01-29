@@ -52,6 +52,7 @@ function App() {
   }else {
           componente = <Clima
           resultado={resultado}
+          pais={pais}
           />
   }
 
